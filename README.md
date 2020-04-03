@@ -1,4 +1,4 @@
 # Physics-Projects
- Burcu DEMİR
- 9/C
- 155
+ Name/Surname: Burcu DEMİR
+ School Number: 155
+ Class: 9/C
