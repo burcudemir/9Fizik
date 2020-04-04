@@ -36,6 +36,8 @@
  | Person | Their Height | Their Weight | Their BMI |
  | ------ | ------------ | ------------ | --------- |
  | My mom| 178 | 88 | 27.77 |
+ | My dad | 181 | 95 | 29 |
+ | Me | 168 | 60| 21.26 |
  
  
 
