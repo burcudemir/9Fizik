@@ -25,7 +25,19 @@
  6. Let it be cooked on the oven for 15 minutes.
  7. Your dish is ready. Bon appetit.
 
- **Note:** You can add onions or garlic according to your taste.
+ **Note:** You can add onions or garlic according to your taste
+ 
+ # Body Mass Index
+ 
+ ## What is body mass index and how do you calculate it?
+ It is a measure of body size. Your body mass ındex or BMI helps you understand if you have the correct weight acoording to your height. 
+ BMI formula: Square of your height(m)/your weight(kg)
+ 
+ | Person | Their Height | Their Weight | Their BMI |
+ | ------ | ------------ | ------------ | --------- |
+ | My mom| 178 | 88 | 27.77 |
+ 
+ 
 
  
  
