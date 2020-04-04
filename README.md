@@ -27,7 +27,7 @@
 
  **Note:** You can add onions or garlic according to your taste
  
- !.[Chicken Saute with Mushrooms].(https://yemek.com/tarif/mantarli-tavuk-sote/)
+ ![Chicken Saute with Mushrooms](https://yemek.com/tarif/mantarli-tavuk-sote/)
  
  # Body Mass Index
  
