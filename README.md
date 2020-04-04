@@ -32,6 +32,13 @@
  ## What is body mass index and how do you calculate it?
  It is a measure of body size. Your body mass ındex or BMI helps you understand if you have the correct weight acoording to your height. 
  BMI formula: Square of your height(m)/your weight(kg)
+ BMI scale: 
+ + Under 18.5: Thin
+ + 18.5-24.9: Normal
+ + 25-29.9: Overweight
+ + 30-34.9: First degree obese
+ + 35-39.9: Second degree obese
+ + Over 40: Third degree morbid obese
  
  | Person | Their Height | Their Weight | Their BMI |
  | ------ | ------------ | ------------ | --------- |
