@@ -3,18 +3,18 @@
  School Number: 155
  Class: 9/C
 
-# Ingredients We Need:
- 600 grams of chopped chicken breast
- 300 grams of cultivated mushroom
- 3 tablespoons of olive oil
- 2 chopped geeen peppers
- 2 chopped capia peppers
- 1 tomato
- 1 teaspoon of black pepper
- 1 teaspoon of thyme
- 1 teaspoon of salt
+## Ingredients We Need:
++ 600 grams of chopped chicken breast
++ 300 grams of cultivated mushroom
++ 3 tablespoons of olive oil
++ 2 chopped geeen peppers
++ 2 chopped capia peppers
++ 1 tomato
++ 1 teaspoon of black pepper
++ 1 teaspoon of thyme
++ 1 teaspoon of salt
 
-# Preperation Steps:
+## Preperation Steps:
  1. Put 3 tablespoons of olive oil into the frying pan and open the stove.
  2. Saute 600 grams of chopped chicken breast in high heat so the chicken doesn't let it's water out.
  3. Add the peppers and keep sauting.
