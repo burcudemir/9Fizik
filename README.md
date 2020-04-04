@@ -3,7 +3,7 @@
  School Number: 155
  Class: 9/C
 
-Ingredients We Need:
+# Ingredients We Need:
  600 grams of chopped chicken breast
  300 grams of cultivated mushroom
  3 tablespoons of olive oil
@@ -14,7 +14,7 @@ Ingredients We Need:
  1 teaspoon of thyme
  1 teaspoon of salt
 
- Preperation Steps:
+# Preperation Steps:
  1. Put 3 tablespoons of olive oil into the frying pan and open the stove.
  2. Saute 600 grams of chopped chicken breast in high heat so the chicken doesn't let it's water out.
  3. Add the peppers and keep sauting.
@@ -23,5 +23,7 @@ Ingredients We Need:
  6. Let it be cooked on the oven for 15 minutes.
  7. Your dish is ready. Bon appetit.
 
- Note: You can add onions or garlic according to your taste.
+ *Note:* You can add onions or garlic according to your taste.
+
+ 
  
