@@ -23,7 +23,7 @@
  6. Let it be cooked on the oven for 15 minutes.
  7. Your dish is ready. Bon appetit.
 
- *Note:* You can add onions or garlic according to your taste.
+ **Note:** You can add onions or garlic according to your taste.
 
  
  
