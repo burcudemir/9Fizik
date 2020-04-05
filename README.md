@@ -32,7 +32,7 @@
  | 230 grams(1 portion) | 169 kcal |
  
  
- ![Chicken Saute with Mushrooms](https://images.app.goo.gl/YH7VrmL8JMui6Cwh8)
+ ![Chicken Saute with Mushrooms](https://img.lezizyemeklerim.com/tarif/7035/mantarli-tavuk-sote_d6af7215d235b69ce88e7709a2c1b186/640x467.jpg)
  
  # Body Mass Index
  
