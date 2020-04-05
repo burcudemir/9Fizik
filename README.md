@@ -32,7 +32,7 @@
  | 230 grams(1 portion) | 169 kcal |
  
  
- ![Chicken Saute with Mushrooms]()
+ ![Chicken Saute with Mushrooms](
  
  # Body Mass Index
  
