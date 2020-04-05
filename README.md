@@ -3,7 +3,6 @@
  School Number: 155
  Class: 9/C
 
-### Calories in 100grams: 106kcal
 
 ## Ingredients We Need:
 + 600 grams of chopped chicken breast
@@ -26,6 +25,12 @@
  7. Your dish is ready. Bon appetit.
 
  **Note:** You can add onions or garlic according to your taste
+ 
+ | Amount of portion | Calories|
+ | ----------------- | ------- |
+ | 100 grams | 106 kcal |
+ | 230 grams(1 portion) | 169 kcal |
+ 
  
  ![Chicken Saute with Mushrooms](https://yemek.com/tarif/mantarli-tavuk-sote/)
  
